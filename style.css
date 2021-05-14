@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+.page-wrapper{
+    border: 1px solid red;
+    width: 100%;
+    padding-bottom: 2%;
+}
+.top-contain{
+    border: 1px solid skyblue;
+    width: 98%;
+   margin-top: 1%;
+   margin-left:1%;
+    
+}
+.top-box{
+    width: 70%;
+    margin: auto;
+    background-color: green;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.second-contain{
+    border: 1px solid skyblue;
+    width:98%;
+    margin-top: 2%;
+    /* padding-top:1%;
+    padding-bottom: 1%; */
+    margin-left: 1%;
+
+}
+.second-box{
+    width: 70%;
+    background-color: green;
+    margin: auto;
+   /* padding-top: 2%; */
+   padding-bottom:4%;
+}
